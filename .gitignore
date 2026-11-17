@@ -1,0 +1,17 @@
+# Credenciais (nunca versionar!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs / sistema
+.vscode/
+.idea/
+.DS_Store
